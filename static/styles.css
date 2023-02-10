@@ -1,0 +1,96 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@CodeWithDyl 
+Faouzizi
+/
+flaskCreateContactForms
+Public
+Fork your own copy of Faouzizi/flaskCreateContactForms
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+flaskCreateContactForms/static/styles.css
+@Faouzizi
+Faouzizi Create styles.css
+Latest commit def47e8 on Sep 1, 2020
+ History
+ 1 contributor
+52 lines (49 sloc)  1.22 KB
+
+***************************************************************************
+                                CONTACT
+***************************************************************************/
+
+.contact form {
+    margin-top: 0px;
+    padding: 0px 30px;
+}
+.contact h3 {
+    color: #488ace;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.contact p {
+    margin: 0 0px 10px;
+    margin-left: 0px!important;
+}
+.contact label {
+    display: none;
+}
+.contact input {
+   width: 100%;
+    border: none;
+    border: 1px solid #dddddd78;
+    padding: 10px;
+    border-radius: 4px;
+}
+.contact textarea#message {
+    width: 100%;
+    height: 122px;
+    border: 1px solid #dddddd78;
+    border-radius: 4px;
+    padding: 10px;
+}
+.contact input#submit {
+    color: white;
+    background: linear-gradient(0.25turn,#2a78ca, #71a1d4);
+    float: right;
+    border: none;
+    border-radius: 4px;
+    padding: 15px 23px;
+    /* margin-right: 10px; */
+    box-shadow: 0px 0px 4px 0px #00000087;
+    margin-top: 15px;
+}
+
+/***************************************************************************
+                                END CONTACT
+***************************************************************************/
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+flaskCreateContactForms/styles.css at master · Faouzizi/flaskCreateContactForms
